@@ -30,7 +30,7 @@
  [ 0.48682249 -0.91389907  0.04599759 -0.98011392]] <br/>
 
 
-<strong>Predicted ouput</strong> <br/>
+<strong>Predicted output</strong> <br/>
 [[68. 68. 68. 68.] <br/>
  [ 6.  6.  6.  6.] <br/>
  [68. 68. 68. 68.] <br/>
