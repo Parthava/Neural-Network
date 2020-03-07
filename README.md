@@ -23,7 +23,7 @@
  [0.1254902  0.1254902  0.1254902  0.1254902 ]] <br/>
 
 
-<strong>Random starting synaptic weights:</strong> <br/>
+<strong>Random starting synaptic weights</strong> <br/>
 [[-0.13622999  0.7287349   0.43908496  0.43280388] <br/>
  [ 0.58698774 -0.26563091 -0.89015776 -0.04375151] <br/>
  [-0.15918596  0.29588191  0.92125155 -0.29211519] <br/>
